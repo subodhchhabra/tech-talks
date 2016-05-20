@@ -1,36 +1,35 @@
 # Future Presenters
 
-**Scheduled 1/25/16**
-* Lessons Learned From My Old Career (an Electronic Medical Records case study) - Will Slack
-* Docker - Aidan
-
-**Scheduled 2/22/16**
-* Making Meetings Not Suck (Your Time Away) - Fureigh
-* ?
-
-**Scheduled 3/28/16**
-* ?
-* ?
-
-**Scheduled 4/26/16**
-* ?
-
 **Scheduled 5/23/16**
-* ?
+* Front end framework tradeoffs - Jeremia Kimelman, Lenny Bogdonoff, Marco Segreto (30 mins)
+* Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
+
+**Scheduled 6/27/16**
+* CSS Modular Architecture - Marco S. (30 mins)
+* Elixir: the best of Python and Ruby - Robb Shecter (15-30 mins)
+
+**Scheduled 7/25/16**
+* ? (? mins)
+
+**Scheduled 8/22/16**
+* ? (? mins)
+
+**Scheduled 9/26/16**
+* ? (? mins)
 
 **Unscheduled**
+* Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins) -- November or later
+
 
 **Please don't add talks here. Choose a slot above instead.**
 * Technical deep div about healthcare.gov - Eric Maland
 * Swagger for API documentation - Linsday Young
-* CSS Modular Architecture - Marco S.
 * Data visualization and D3 - Shawn
 * Promises, Generators, and frontend Async - Aidan (good way to force myself to learn Generators, haha)
 * JS Module Loading options - Aidan
 * Tricks for HTML Email in Rails - Aidan
 * Data modeling and implicit assumptions about an imprecise world - Jacob
 * Ruby on Rails 4 patterns and best practices - Moncef
-* Docker - Ozzy
 * Data munging with Pandas - Becky
 * async / await in python3.5 / es2016 - Josh Carp
 
@@ -64,4 +63,15 @@
 * Pytest - Josh Carp
 
 **12/21/2015**
-* Towards A Unique Universal Identifier for Legal Entities - Tony
+* Towards A Unique Universal Identifier for Legal Entities - Tony ([video](https://www.youtube.com/watch?v=QJu0g7VryDU))
+
+**1/25/16**
+* Lessons Learned From My Old Career (an Electronic Medical Records case study) - Will Slack  ([video](https://youtu.be/_ZIWTchpek8))
+* Docker - Aidan ([video](https://youtu.be/_ZIWTchpek8?t=29m48s))
+
+**2/22/16**
+* Vulnerability Scanning with OWASP ZAP - Dave Best ([video](https://www.youtube.com/watch?v=2Dp7pAvKHaM))
+
+**4/25/16**
+* [Criminal Justice data collection](https://docs.google.com/a/gsa.gov/presentation/d/1qyftJiZIDYxLH9cI4LZywEk4CknzQd36TJes9WiKezA/edit?usp=sharing) - Ryan Sibley (30 mins) 
+* [Technical Debt](https://docs.google.com/presentation/d/14CwxeL_qvMWwB7rZe_WHVfHXQNpwFzLixBVbdb9EBIw/edit#slide=id.p) - Kane Baccigalupi (30 mins) [video](https://www.youtube.com/watch?v=9TON4bkTJhs&feature=youtu.be)
