@@ -7,34 +7,36 @@ Select a time slot below, add your talk and commit right to master. That's all! 
 See the 18F-Developers calendar in Google. They are held on the fourth Monday of each month.
 
 ## Schedule
-**Scheduled 7/25/16**
-* Incident reporting (real title to come) - Jacob K-M and Jeremia (30 mins)
-* Compliance work (real title to come) - Aidan (30 mins)
-
-**Scheduled 8/22/16**
-* Data munging with Pandas - Becky (30 min)
-* Make CSS Great Again (with Atomic CSS) - Brendan (20 mins)
-
-**Scheduled 9/26/16**
-* Engineering career talk - Holly (30 mins)
-* ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
-
 **Scheduled 10/24/16**
 * Level up your programming skills with Exercism - Robb (30 mins)
-* ? (? mins)
+* Make CSS Great Again (with Atomic CSS) - Brendan (20 mins)
 
 **Scheduled 11/28/16**
-* ? (? mins)
+* Data munging 2.0 w/ dask - Eric Schles (30 mins)
+* ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
 
 **Scheduled 12/19/16**
+* Engineering career talk - Holly (30 mins)
+* Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins)
+
+**Scheduled 1/23/17**
+* ? (? mins)
+
+**Scheduled 2/27/17**
 * ? (? mins)
 
 **Unscheduled** Please don't add talks here. Pick a time slot above instead.
-* Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins) -- November or later
 * Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
 
 
 # Archive
+**8/22/16**
+* Data munging with Pandas - Becky (30 min) [video](https://www.youtube.com/watch?v=gAWmTtqx-v8&feature=youtu.be)
+
+**7/25/16**
+* Incident reporting - Jacob K-M and Jeremia (30 mins) [video](https://www.youtube.com/watch?v=OVIBTKS-5wY&list=PLd9b-GuOJ3nG5zDAg7exOHusZKVVrkhjO&index=2)
+* Everything I think I understand about IT compliance - Aidan (30 mins) [video](https://www.youtube.com/watch?v=-Nc4GXPxpQg&list=PLd9b-GuOJ3nG5zDAg7exOHusZKVVrkhjO&index=1)
+
 **6/27/16**
 * CSS Architecture - Marco S. (30 mins) [video](https://www.youtube.com/watch?v=vO3KtQYrEUA)
 * Elixir: the best of Python and Ruby - Robb Shecter (30 mins) [video](https://www.youtube.com/watch?v=-zc_atejUzQ)
