@@ -10,11 +10,17 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 **6/26/17**
 - Implementing analytics in a Rails app and how it improved the code design. - Moncef (30 mins)
+
+**7/24/17** 
 - Tools for remote collaboration - Jeremia (30 mins)
 
-**7/24/17**
-- Intro to Neural Networks & Deep Learning - Brendan (30 mins) 
+**08/28/17**
+- Building a time-keeping tool in Rust - Roger (45 mins)
+- Detecting Tampered Data - DKP (30 mins)
 
+**09/25/17**
+- Finding Bugs Like A Hacker - DKP (30 mins)
+- Intro to Neural Networks & Deep Learning - Brendan (30 mins)
 
 **Unscheduled** Please don't add talks here. Pick a time slot above instead.
 * Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
